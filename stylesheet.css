@@ -37,7 +37,7 @@ body {
 .output {
     grid-column: 1 / -1;
     border: 1px solid #272422;
-    background-color: #d1d1d3;
+    background: linear-gradient(to bottom,  #d3d1d1, #ffffff);
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
