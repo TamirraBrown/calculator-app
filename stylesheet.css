@@ -55,3 +55,11 @@ body {
     color:#000000;
     font-size: 2.5rem;
 }
+
+.welcomeText {
+display: flex;
+height: 50px;
+justify-content: center;
+align-items: center;
+
+}
